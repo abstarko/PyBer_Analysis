@@ -1,6 +1,6 @@
 # PyBer_Analysis
 
-## Projecct Overview
+## Project Overview
 
 ## Results
 
