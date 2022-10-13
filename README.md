@@ -4,9 +4,9 @@
 The purpose of this project was to review the ride share data across multiple cities to find trends related to their specific area.
 
 ## Results
-To retrieve this data we had to combine the ride share sata and the city data. we merged data frames to gather data on the following - Total Rides, Total Drivers, Total Fares, Average Fare Per Driver, and Average Fare Per Ride. We were able to split this data into the three different data types - Rural, Suburban and Urban.
+To retrieve this data we had to combine the ride share sata and the city data. We merged data frames to gather data on the following - Total Rides, Total Drivers, Total Fares, Average Fare Per Driver, and Average Fare Per Ride. We were able to split this data into the three different city data types - Rural, Suburban and Urban.
 
-The data shows us that the average fare per driver is quite higher than the average fare per ride in our rural and suburban areas. We can also see that there are more rides in uraban areas comapred to rural areas; rural rides being the most expensive. Suburban driver count and rides remain in the middle for average fare cost.
+The data shows us that the average fare per driver is quite higher than the average fare per ride in our rural and suburban areas. We can also see that there are more rides in urban areas comapred to rural areas; rural rides being the most expensive. Suburban driver count and rides remain in the middle for average fare cost.
 
 ## Summary
 
